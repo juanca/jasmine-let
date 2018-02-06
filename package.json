@@ -4,7 +4,7 @@
   "description": "Utility method for jasmine specs to use lazy set context keys once",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine JASMINE_CONFIG_PATH=jasmine.config.json"
   },
   "repository": {
     "type": "git",

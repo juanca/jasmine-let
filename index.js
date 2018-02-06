@@ -1,1 +1,2 @@
-module.exports = console.error('Implementation required.');
+module.exports = function jasmineLet(key, callback) {
+};
