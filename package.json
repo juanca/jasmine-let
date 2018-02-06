@@ -1,6 +1,6 @@
 {
   "name": "jasmine-let",
-  "version": "1.0.0-a",
+  "version": "1.0.0-b",
   "description": "Utility method for jasmine specs to use lazy set context keys once",
   "main": "index.js",
   "scripts": {
