@@ -16,5 +16,8 @@
     "lazy"
   ],
   "author": "Juan Carlos Medina",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.9.0"
+  }
 }
