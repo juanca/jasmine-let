@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanca/jasmine-let.git"
+  },
   "keywords": [
     "jasmine",
     "let",
