@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-let",
+  "version": "1.0.0-a",
+  "description": "Utility method for jasmine specs to use lazy set context keys once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jasmine",
+    "let",
+    "lazy"
+  ],
+  "author": "Juan Carlos Medina",
+  "license": "MIT"
+}
